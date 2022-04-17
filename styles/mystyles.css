@@ -1,0 +1,40 @@
+/* Janet Wintercorn | 4/16/2022 */
+
+.resumetitles {
+    text-align:left;
+    font-weight:bold;
+}
+
+.resumelistitem {
+    font-weight:normal;
+}
+
+.background {
+    background-image: url('../images/background.jpeg');
+}
+
+.header1 {
+    color:rgba(255, 163, 121, 0.699);
+}
+
+.header2 {
+    color:rgb(201, 99, 150);
+}
+
+.boxcolor {
+    background-color:rgba(201, 99, 150, 0.582);
+}
+
+.bigboxcolor {
+    background-color:rgba(247, 198, 176, 0.699);
+    border: none;
+}
+
+.footer {
+    background-color:rgba(247, 198, 176, 0.699);
+    color:rgb(201, 99, 150);
+}
+
+/* I can't flipping figure out what makes these dumb borders brown ugh.mx-auto {
+    background-color:rgba(247, 198, 176, 0.699);
+} */

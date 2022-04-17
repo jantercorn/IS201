@@ -1,0 +1,67 @@
+/* Janet Wintercorn | 4/16/2022 */
+
+.background {
+    background-image: url('../images/background.jpeg');
+    background-size:2100px;
+}
+
+.header {
+    padding-top:10px;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 140px;
+    border-bottom: solid 3px rgba(233, 186, 202, 0.712);
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.body {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+}
+
+.footer {
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    color: rgb(233, 186, 202);
+    text-align: center;
+    position: fixed;
+    padding-bottom:10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+p {
+    text-align:center;
+    font-size:18px;
+}
+
+h1 {
+    text-align:center;
+}
+
+a {
+    text-align:center;
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: palevioletred;
+}
+
+.mainlinks {
+    font-size: 20px;
+    font-weight:bold;
+}
